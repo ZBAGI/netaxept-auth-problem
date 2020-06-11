@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		/* Basic Options */
+		"target": "ES2019",
+		"module": "commonjs",
+		"removeComments": true,
+		"moduleResolution": "node",
+		
+		/* Strict Type-Checking Options */
+		"strict": true,
+		"noImplicitAny": true,
+		"strictPropertyInitialization": false,
+		"resolveJsonModule": true,
+		
+		/* Additional Checks */
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+		
+		/* Output */
+		"declaration": false,
+		"inlineSourceMap": true
+	}
+
+}

@@ -1,0 +1,20 @@
+{
+  "name": "netaxept-auth-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm i",
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.26",
+    "typescript": "3.4.3"
+  },
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
+npm 
